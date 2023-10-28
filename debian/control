@@ -2,6 +2,7 @@ Source: my-package
 Maintainer: Safepine <contact@safepine.co>
 Section: misc
 Priority: optional
+Standards-Version: 4.6.2
 Build-Depends: debhelper-compat (= 13)
 
 Package: my-package
