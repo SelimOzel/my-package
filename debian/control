@@ -1,0 +1,10 @@
+Source: my-package
+Maintainer: Safepine <contact@safepine.co>
+Section: misc
+Priority: optional
+Build-Depends: debhelper-compat (= 13)
+
+Package: my-package
+Architecture: any
+Description: greet user
+ hithere greets the user, or the world.

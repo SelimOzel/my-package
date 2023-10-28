@@ -1,0 +1,9 @@
+Package: my-package
+Version: 1.0
+Architecture: amd64
+Maintainer: Safepine <contact@safepine.co>
+Installed-Size: 7
+Section: misc
+Priority: optional
+Description: greet user
+ hithere greets the user, or the world.
