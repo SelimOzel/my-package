@@ -1,1 +1,6 @@
 /usr/bin/app
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/my-package.substvars
+debian/my-package.substvars
+debian/my-package/
