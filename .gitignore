@@ -1,4 +1,4 @@
-/usr/bin/app
+app
 debian/.debhelper/
 debian/debhelper-build-stamp
 debian/my-package.substvars

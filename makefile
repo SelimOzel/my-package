@@ -1,6 +1,8 @@
 all: 
 	cc -o app main.c
-	mv -f app usr/bin
+
+install:
+	cc -o app main.c
 
 clean:
-	rm -rf usr/bin/app
+	rm -rf app
